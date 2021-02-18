@@ -8,6 +8,7 @@
     <!--Title of the web page-->
     <title>Ian Denis - Chess</title>
 <h1 style="color: pink; background-color: black; font-size: 30">Chess, the board game</h1>
+    <!--changes color to pink, background to black, font size to 30-->
     <!--unordered list-->
     <ul>
         <li>What is Chess?</li>
@@ -18,11 +19,13 @@
     <br>
     <!--first heading-->
     <h2 style="color: pink; background-color: black; font-size: 20">What is Chess?</h2>
+    <!--changes color to pink, background to black, font size to 20-->
     <p> 
  Chess is a board game of strategic skill for two players, played on a checkered board. Finding its origins from the 6th century, chess has evolved over centuries into the refined game it is today. The board consists of 64 total squares, colored black and white in a checkered pattern. Each player starts the game with sixteen pieces, including pawns, knights, rooks, bishops, kings, and queens. Each piece is moved and used to capture opposing pieces according to specific rules. The goal of the game is to put the opponent's king under checkmate - an attack from which escape is impossible.</p><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Chess_board_opening_staunton.jpg/300px-Chess_board_opening_staunton.jpg"><br>
     <!--second heading-->
     <h2 style="color: pink; background-color: black; font-size: 20">Rules of Chess</h2>
+     <!--changes color to pink, background to black, font size to 20-->
     <p>Chess is a relatively simple game to learn, but an incredibly hard game to master. Here are the basic rules:</p>
     <ul>
         <li>Each player starts with 16 pieces total: 8 pawns, 2 rooks, 2 knights, 2 bishops, 1 queen, and 1 king. Each chess piece moves according to unique rules, which can be found <a href=https://www.ichess.net/blog/chess-pieces-moves/>here</a>.</li>
@@ -36,6 +39,7 @@
     <br>
     <!--Third heading-->
     <h2 style="color: pink; background-color: black; font-size: 20">More Info</h2>
+ <!--changes color to pink, background to black, font size to 20-->
     <p>Chess is a complex game with a vast history, here are some links where you can learn more about it!</p>
     <ul>
         <li><a href="https://www.chess.com/">A chess website you can play on for free</a></li>
@@ -44,6 +48,7 @@
     </ul><br>
     <!--teammate showcase section-->
     <h3 style="color: pink; background-color: black; font-size: 15">Showcasing Team Oranges</h3>
+ <!--changes color to pink, background to black, font size to 15-->
     <ul>
         <li><a href="https://briankang123.github.io/web/talk.html">Brian Kang</a></li>
         <li><a href="https://nicoleliu123.github.io/web/talk.html">Nicole Liu</a></li>
