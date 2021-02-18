@@ -7,7 +7,7 @@
 <html>
     <!--Title of the web page-->
     <title>Ian Denis - Chess</title>
-    <h1>Chess, the board game</h1>
+<h1 style="color: pink; background-color: black;">Chess, the board game</h1>
     <!--unordered list-->
     <ul>
         <li>What is Chess?</li>
@@ -17,11 +17,12 @@
     </ul>
     <br>
     <!--first heading-->
-    <h2>What is Chess?</h2>
-    <p>Chess is a board game of strategic skill for two players, played on a checkered board. Finding its origins from the 6th century, chess has evolved over centuries into the refined game it is today. The board consists of 64 total squares, colored black and white in a checkered pattern. Each player starts the game with sixteen pieces, including pawns, knights, rooks, bishops, kings, and queens. Each piece is moved and used to capture opposing pieces according to specific rules. The goal of the game is to put the opponent's king under checkmate - an attack from which escape is impossible.</p><br>
+    <h2 style="color: pink; background-color: black;">What is Chess?</h2>
+    <p> 
+ Chess is a board game of strategic skill for two players, played on a checkered board. Finding its origins from the 6th century, chess has evolved over centuries into the refined game it is today. The board consists of 64 total squares, colored black and white in a checkered pattern. Each player starts the game with sixteen pieces, including pawns, knights, rooks, bishops, kings, and queens. Each piece is moved and used to capture opposing pieces according to specific rules. The goal of the game is to put the opponent's king under checkmate - an attack from which escape is impossible.</p><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Chess_board_opening_staunton.jpg/300px-Chess_board_opening_staunton.jpg"><br>
     <!--second heading-->
-    <h2>Rules of Chess</h2>
+    <h2 style="color: pink;"background-color: black;>Rules of Chess</h2>
     <p>Chess is a relatively simple game to learn, but an incredibly hard game to master. Here are the basic rules:</p>
     <ul>
         <li>Each player starts with 16 pieces total: 8 pawns, 2 rooks, 2 knights, 2 bishops, 1 queen, and 1 king. Each chess piece moves according to unique rules, which can be found <a href=https://www.ichess.net/blog/chess-pieces-moves/>here</a>.</li>
@@ -34,7 +35,7 @@
     </ul><br>
     <br>
     <!--Third heading-->
-    <h2>More Info</h2>
+    <h2 style="color: pink; background-color: black;">More Info</h2>
     <p>Chess is a complex game with a vast history, here are some links where you can learn more about it!</p>
     <ul>
         <li><a href="https://www.chess.com/">A chess website you can play on for free</a></li>
@@ -42,10 +43,9 @@
         <li><a href="https://www.chesscoachonline.com/chess-articles/chess-rules">Explanation of chess rules</a></li>
     </ul><br>
     <!--teammate showcase section-->
-    <h3>Showcasing Team Tenacious Turtles</h3>
+    <h3 style="color: pink; background-color: black;">Showcasing Team Tenacious Turtles</h3>
     <ul>
-        <li><a href="https://anthonyqsun.github.io/web/">Anthony Sun - Go</a></li>
-        <li><a href="https://marcjiang123.github.io/web/">Marc Jiang - Sleep</a></li>
-        <li><a href="https://briankang123.github.io/web/">Brian Kang</a></li>
+        <li><a href="https://briankang123.github.io/web/talk.html">Brian Kang</a></li>
+        <li><a href="https://nicoleliu123.github.io/web/talk.html">Nicole Liu</a></li>
     </ul>
     </html>
